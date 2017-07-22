@@ -1,0 +1,15 @@
+* {
+	font-family: Arial;
+}
+body{
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+.story-actions{
+	display: none;
+
+}
+.story-detail-view{
+		border-bottom: 5px solid black;
+}
